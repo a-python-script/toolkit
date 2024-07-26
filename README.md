@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/a-python-script/toolkit/main/icon.png" width="75" height="75" align="left" style="margin-right: 20px;">
+<img src="https://raw.githubusercontent.com/a-python-script/toolkit/main/icon.png" width="50" height="50" align="left" style="border-radius: 10px; margin-right: 10px;">
 
 # a-python-script's Prototyping Toolkit
 
