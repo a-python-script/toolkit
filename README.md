@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/a-python-script/toolkit/main/icon.png" width="75" height="75" alt="Toolkit icon" style="margin-right: 20px; border-radius: 15px;">
-    <h1>a-python-script's Prototyping Toolkit</h1>
-</div>
+<img src="https://raw.githubusercontent.com/a-python-script/toolkit/main/icon.png" width="75" height="75" align="left" style="margin-right: 20px;">
+
+# a-python-script's Prototyping Toolkit
 
 Welcome to my personal prototyping playground! This repository serves as a curated collection of code snippets, tools, and utilities that I've found invaluable for rapid prototyping of various approaches and ideas.
 
